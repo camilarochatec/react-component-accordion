@@ -15,7 +15,7 @@ O resultado é um componente React limpo, reutilizável e totalmente estilizado 
 
 ## 🚀 Veja o Projeto Ao Vivo
 
-### **[Clique aqui para ver a demonstração](https://www.google.com/search?q=SEU_LINK_DO_PROJETO_AO_VIVO_AQUI)**
+### **[Clique aqui para ver a demonstração](react-component-accordion.vercel.app)**
 
 -----
 
